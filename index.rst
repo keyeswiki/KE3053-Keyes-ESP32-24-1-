@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KE3053 Keyes ESP32 24合1 传感器套装
+   :caption: KE3053（KE3053S）Keyes ESP32 24合1 学习套件
 
    README.md
    docs/1. 产品介绍/产品介绍.md
