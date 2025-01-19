@@ -2,7 +2,7 @@
 /*
  * Filename    : Classic Bluetooth
  * Description : ESP32 communicates with the phone by bluetooth and print phone's data via a serial port
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include "BluetoothSerial.h"
 

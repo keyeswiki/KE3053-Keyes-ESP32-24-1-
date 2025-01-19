@@ -2,7 +2,7 @@
 /*
  * Filename    : Servo_2
  * Description : Control the servo motor for sweeping
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include <ESP32Servo.h>
 

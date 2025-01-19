@@ -2,7 +2,7 @@
 /*
  * Filename    : Active buzzer
  * Description : An active buzzer produces sound
- * Auther      : http://www.keyestudio.com
+ * Auther      : http://www.keyes-robot.com
 */
 int buzzer = 5; //Define buzzer receiver pin GPIO5
 void setup() {

@@ -2,7 +2,7 @@
 /*  
  * Filename    : IR Receiver
  * Description : Decode the infrared remote control and print it out through the serial port.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include <Arduino.h>
 #include <IRremoteESP8266.h>

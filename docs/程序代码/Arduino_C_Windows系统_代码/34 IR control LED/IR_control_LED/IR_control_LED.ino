@@ -2,7 +2,7 @@
 /*  
  * Filename    : IR Control LED
  * Description : Remote controls LED on and off
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include <Arduino.h>
 #include <IRremoteESP8266.h>

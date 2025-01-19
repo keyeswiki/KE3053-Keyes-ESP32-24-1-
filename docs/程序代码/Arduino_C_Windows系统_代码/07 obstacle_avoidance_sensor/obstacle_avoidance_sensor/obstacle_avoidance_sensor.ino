@@ -2,7 +2,7 @@
 /*
  * Filename    : obstacle avoidance sensor
  * Description : Reading the obstacle avoidance value
- * Auther      : http://www.keyestudio.com
+ * Auther      : http://www.keyes-robot.com
 */
 int val = 0;
 void setup() {

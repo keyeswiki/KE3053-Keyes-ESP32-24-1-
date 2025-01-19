@@ -2,7 +2,7 @@
 /*
  * Filename    : Blink
  * Description : led Flashing 1 s
- * Auther      : http://www.keyestudio.com
+ * Auther      : http://www.keyes-robot.com
 */
 int ledPin = 5; //Define LED pin connection to GPIO5
 void setup() {

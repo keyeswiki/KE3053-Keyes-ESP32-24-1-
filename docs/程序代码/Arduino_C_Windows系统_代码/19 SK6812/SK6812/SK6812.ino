@@ -2,7 +2,7 @@
 /*  
  * Filename    : sk6812 RGB LED
  * Description : turn on sk6812 RGB LED
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include <Adafruit_NeoPixel.h>
 

@@ -2,7 +2,7 @@
 /*  
  * Filename    : Temperature sensor
  * Description : Making a thermometer by thermistor.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #define PIN_ANALOG_IN   34
 void setup() {

@@ -2,7 +2,7 @@
 /*
  * Filename    : Tilt switch
  * Description : Reading the tilt sensor value
- * Auther      :http://www.keyestudio.com
+ * Auther      :http://www.keyes-robot.com
 */
 int val; //Store the level value output by the tilt sensor
 

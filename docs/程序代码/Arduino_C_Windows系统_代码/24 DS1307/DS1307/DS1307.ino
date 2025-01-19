@@ -2,7 +2,7 @@
 /*  
  * Filename    : DS1307 Real Time Clock
  * Description : Read the year/month/day/hour/minute/second/week of DS1307 clock module
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include <Wire.h>
 #include "RtcDS1307.h"  //DS1307 clock module library

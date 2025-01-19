@@ -2,7 +2,7 @@
 /*
  * Filename    : Servo_1
  * Description : Steering gear rotation Angle 0-90-180, repeatly
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 int servoPin = 4;//steering gear PIN
 

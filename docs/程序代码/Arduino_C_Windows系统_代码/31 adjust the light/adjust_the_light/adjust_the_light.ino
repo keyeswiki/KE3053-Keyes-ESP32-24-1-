@@ -2,7 +2,7 @@
 /*  
  * Filename    : adjust the light
  * Description : Controlling the brightness of LED by potentiometer.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #define PIN_ANALOG_IN    34  // The pin of the potentiometer
 #define PIN_LED           5  // The pin of the LED

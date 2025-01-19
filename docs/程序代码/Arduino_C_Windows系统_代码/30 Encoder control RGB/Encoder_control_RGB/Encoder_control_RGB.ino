@@ -2,7 +2,7 @@
 /*  
  * Filename    : Encoder control RGB
  * Description : Rotary encoder controls RGB to present different effects
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 //Interfacing Rotary Encoder with Arduino
 //Encoder Switch -> pin 16

@@ -2,7 +2,7 @@
 /*
  * Filename    : Reed Switch
  * Description : Read the value of the reed sensor
- * Auther      : http://www.keyestudio.com
+ * Auther      : http://www.keyes-robot.com
 */
 int val = 0;
 int reedPin = 5; //Define dry reed module signal pin connected to GPIO5

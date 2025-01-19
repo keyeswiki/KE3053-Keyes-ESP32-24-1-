@@ -2,7 +2,7 @@
 /* 
  * Filename    : button_control_LED
  * Description : Make a table lamp.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #define PIN_LED    12
 #define PIN_BUTTON 13

@@ -2,7 +2,7 @@
 /*
  * Filename    : Traffic_Light
  * Description : Simulated traffic lights
- * Auther      : http://www.keyestudio.com
+ * Auther      : http://www.keyes-robot.com
 */
 int redPin = 5;   //Red LED connected to GPIO5
 int yellowPin = 13; //Yellow LED connected to GPIO13

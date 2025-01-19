@@ -2,7 +2,7 @@
 /*  
  * Filename    : Encoder
  * Description : Rotary encoder module counting.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 //Interfacing Rotary Encoder with Arduino
 //Encoder Switch -> pin 16

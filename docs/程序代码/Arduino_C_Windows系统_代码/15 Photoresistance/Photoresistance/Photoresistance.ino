@@ -2,7 +2,7 @@
 /*  
  * Filename    : Photoresistance
  * Description : Read the basic usage of ADC，DAC and Voltage
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #define PIN_ANALOG_IN  34  //the pin of the Photoresistance
 

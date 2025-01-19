@@ -2,7 +2,7 @@
 /*
  * Filename    : Breathing Led
  * Description : Make led light fade in and out, just like breathing.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #define PIN_LED   4   //define the led pin
 #define CHN       0   //define the pwm channel

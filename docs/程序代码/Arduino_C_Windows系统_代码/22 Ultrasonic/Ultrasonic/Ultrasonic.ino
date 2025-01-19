@@ -2,7 +2,7 @@
 /*  
  * Filename    : Ultrasonic
  * Description : Use the ultrasonic module to measure the distance.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 const int TrigPin = 13; // define TrigPin
 const int EchoPin = 12; // define EchoPin.

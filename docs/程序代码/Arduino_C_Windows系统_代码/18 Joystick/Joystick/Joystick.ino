@@ -2,7 +2,7 @@
 /*  
  * Filename    : Joystick
  * Description : Read data from Rocker.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 int xyzPins[] = {34, 35, 13};   //x,y,z pins
 void setup() {

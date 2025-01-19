@@ -2,7 +2,7 @@
 /*  
  * Filename    : TM1650 Four digital tube
  * Description : TM1650 Four Digital Tube shows 0-9999
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include "TM1650.h"
 #define CLK 22    //pins definitions for TM1650 and can be changed to other ports       

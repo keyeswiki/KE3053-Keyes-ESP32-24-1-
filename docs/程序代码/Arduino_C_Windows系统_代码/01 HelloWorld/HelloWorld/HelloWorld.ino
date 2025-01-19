@@ -2,7 +2,7 @@
 /*
  * Filename    : Hello World
  * Description : Enter the letter R,and the serial port displays"Hello World".
- * Auther      :http//www.keyestudio.com
+ * Auther      :http//www.keyes-robot.com
 */
 char val;// defines variable "val"
 void setup()

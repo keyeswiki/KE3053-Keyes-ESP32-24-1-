@@ -2,7 +2,7 @@
 /*
  * Filename    : WiFi AP
  * Description : Set ESP32 to open an access point
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include <WiFi.h> //Include the WiFi Library header file of ESP32.
 

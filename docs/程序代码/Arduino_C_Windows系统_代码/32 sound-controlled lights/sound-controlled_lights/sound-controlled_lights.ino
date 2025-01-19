@@ -2,7 +2,7 @@
 /*  
  * Filename    : sound-controlled lights
  * Description : Sound sensor controls LED on and off
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 int ledPin = 5;    //LED is connected to GPIO5
 int microPin = 34; //Sound sensor is connected to GPIO34

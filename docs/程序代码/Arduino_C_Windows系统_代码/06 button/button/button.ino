@@ -2,7 +2,7 @@
 /*
  * Filename    : button
  * Description : Read key value
- * Auther      : http://www.keyestudio.com
+ * Auther      : http://www.keyes-robot.com
 */
 int val = 0;  //Useto store key values
 int button = 5; //The pin of the button is connected to GPIO5

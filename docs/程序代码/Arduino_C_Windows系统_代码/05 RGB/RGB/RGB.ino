@@ -2,7 +2,7 @@
 /*
  * Filename    : RGB LED
  * Description : Use RGBLED to show random color.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 int ledPins[] = {32, 4, 2};    //define red, green, blue led pins
 const byte chns[] = {0, 1, 2};        //define the pwm channels

@@ -2,7 +2,7 @@
 /*
  * Filename    : Passive Buzzer
  * Description : Passive Buzzer sounds the alarm.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #define LEDC_CHANNEL_0 0
 

@@ -3,7 +3,7 @@
 /*
  * Filename    : 8×8 Dot-matrix Display
  * Description : 8x8 LED dot matrix display“Heart” pattern.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include "HT16K33_Lib_For_ESP32.h"
 

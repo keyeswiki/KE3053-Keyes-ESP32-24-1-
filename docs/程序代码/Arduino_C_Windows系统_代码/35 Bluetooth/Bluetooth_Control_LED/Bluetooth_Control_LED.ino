@@ -4,7 +4,7 @@
  * Description : The phone controls esp32's led via bluetooth.
                 When the phone sends "LED_on," ESP32's LED lights turn on.
                 When the phone sends "LED_off," ESP32's LED lights turn off.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include "BluetoothSerial.h"
 #include "string.h"

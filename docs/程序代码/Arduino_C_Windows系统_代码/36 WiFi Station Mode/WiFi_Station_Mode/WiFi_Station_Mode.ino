@@ -2,7 +2,7 @@
 /*
  * Filename    : WiFi Station Mode
  * Description : Connect to your router using ESP32
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include <WiFi.h> //Include the WiFi Library header file of ESP32.
 

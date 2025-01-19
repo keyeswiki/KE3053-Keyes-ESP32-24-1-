@@ -2,7 +2,7 @@
 /*
  * Filename    : PIR motion
  * Description : Reading the value of the human body infrared sensor
- * Auther      :  http://www.keyestudio.com
+ * Auther      :  http://www.keyes-robot.com
 */
 int val = 0;
 int pirPin = 5; //The pin of PIR motion sensor is defined as GPIO5

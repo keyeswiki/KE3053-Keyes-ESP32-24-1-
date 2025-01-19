@@ -2,7 +2,7 @@
 /*
  * Filename    : Comprehensive experiment
  * Description : Multiple sensors/modules work together
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 //rgb is connected to 2,4,32
 int ledPins[] = {2, 4, 32};    //define red, green, blue led pins

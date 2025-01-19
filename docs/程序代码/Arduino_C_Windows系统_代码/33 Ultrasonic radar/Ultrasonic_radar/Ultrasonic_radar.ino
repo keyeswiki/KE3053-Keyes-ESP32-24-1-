@@ -2,7 +2,7 @@
 /*  
  * Filename    : Ultrasonic radar
  * Description : Ultrasonic control four digit tube, buzzer and RGB analog ultrasonic radar.
- * Auther      : http//www.keyestudio.com
+ * Auther      : http//www.keyes-robot.com
 */
 #include "TM1650.h" //Import the TM1650 library file
 //the interfaces are GPIO21 and GPIO22
