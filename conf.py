@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'keyes WiKi'
-author = 'keyes WiKi'
+author = 'keyes'
 copyright = 'Shenzhen keyes diy robot Co., Ltd'
 
 root_doc = "index"
